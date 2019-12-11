@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">NoteBook</string>
     <string name="action_settings">Settings</string>
+    <string name="note_name">Note Name</string>
+    <string name="my_note">MyNote</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="preference_file_key">com.samchan.notebook</string>
 </resources>
